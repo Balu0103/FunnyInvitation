@@ -1,0 +1,2 @@
+# FunnyInvitation
+Just for fun
